@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         youtube restore playlist controls
 // @namespace    com.dev-zero.user-scripts
-// @version      0.9.0
+// @version      1.0.0
 // @description  restore the playlist controls for prev and next video
 // @license      GPLv3+
 // @author       Stephan Sachse
